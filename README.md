@@ -1,5 +1,4 @@
 ![Contribute to Scroll](./assets/banner.png)
-
 [![GitPOAP Badge](https://public-api.gitpoap.io/v1/repo/scroll-tech/contribute-to-scroll/badge)](https://www.gitpoap.io/gp/1057)
 [![Twitter Follow](https://img.shields.io/twitter/follow/Scroll_ZKP?style=social)](https://twitter.com/Scroll_ZKP)
 [![Discord](https://img.shields.io/discord/984015101017346058?color=%235865F2&label=Discord&logo=discord&logoColor=%23fff)](https://discord.gg/scroll)
